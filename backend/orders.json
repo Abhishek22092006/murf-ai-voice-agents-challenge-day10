@@ -1,0 +1,30 @@
+[
+  {
+    "id": "order-2564d6b7",
+    "items": [
+      {
+        "product_id": "tee-002",
+        "name": "Casual Cotton Tee",
+        "unit_price": 299,
+        "quantity": 1,
+        "line_total": 299,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "hoodie-001",
+        "name": "Cozy Hoodie",
+        "unit_price": 1499,
+        "quantity": 1,
+        "line_total": 1499,
+        "attrs": {
+          "size": "L"
+        }
+      }
+    ],
+    "total": 1798,
+    "currency": "INR",
+    "created_at": "2025-11-30T08:10:05.358033Z"
+  }
+]
